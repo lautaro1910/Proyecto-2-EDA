@@ -1,0 +1,113 @@
+1
+10000000
+Mariano
+Fazio Fernandez
+261-4967890
+Mitre 1252
+2020-08-02
+1
+20000000
+Mariano
+Fazio Fernandez
+261-4967890
+Mitre 1252
+2020-08-02
+1
+30000000
+Mariano
+Fazio Fernandez
+261-4967890
+Mitre 1252
+2020-08-02
+1
+40000000
+Mariano
+Fazio Fernandez
+261-4967890
+Mitre 1252
+2020-08-02
+1
+50000000
+Mariano
+Fazio Fernandez
+261-4967890
+Mitre 1252
+2020-08-02
+1
+60000000
+Mariano
+Fazio Fernandez
+261-4967890
+Mitre 1252
+2020-08-02
+1
+70000000
+Mariano
+Fazio Fernandez
+261-4967890
+Mitre 1252
+2020-08-02
+2
+70000000
+Mariano
+Fazio Fernandez
+261-4967890
+Mitre 1252
+2020-08-02
+1
+80000000
+Mariano
+Fazio Fernandez
+261-4967890
+Mitre 1252
+2020-08-02
+1
+90000000
+Mariano
+Fazio Fernandez
+261-4967890
+Mitre 1252
+2020-08-02
+1
+11000000
+Mariano
+Fazio Fernandez
+261-4967890
+Mitre 1252
+2020-08-02
+1
+21000000
+Mariano
+Fazio Fernandez
+261-4967890
+Mitre 1252
+2020-08-02
+1
+13000000
+Mariano
+Fazio Fernandez
+261-4967890
+Mitre 1252
+2020-08-02
+1
+10000000
+Mariano
+Fazio Fernandez
+261-4967890
+Mitre 1252
+2020-08-02
+1
+12400000
+Mariano
+Fazio Fernandez
+261-4967890
+Mitre 1252
+2020-08-02
+3
+10000000
+3
+12400000
+3
+70000000
+3
+15400000

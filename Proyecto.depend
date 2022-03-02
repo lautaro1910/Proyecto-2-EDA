@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1606517610 source:c:\users\fravega\desktop\f\segundo año\estructura de datos y algoritmos\p2-grupo4\trabajo de maquina 2\main.c
+	"RS.h"
+	"RAC.h"
+
+1606516821 c:\users\fravega\desktop\f\segundo año\estructura de datos y algoritmos\p2-grupo4\trabajo de maquina 2\rs.h
+	"lista.h"
+
+1606273663 c:\users\fravega\desktop\f\segundo año\estructura de datos y algoritmos\p2-grupo4\trabajo de maquina 2\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"persona.h"
+
+1606089814 c:\users\fravega\desktop\f\segundo año\estructura de datos y algoritmos\p2-grupo4\trabajo de maquina 2\persona.h
+	<string.h>
+	<ctype.h>
+
+1606516821 c:\users\fravega\desktop\f\segundo año\estructura de datos y algoritmos\p2-grupo4\trabajo de maquina 2\rac.h
+
+1606091180 source:c:\users\lautaro\desktop\trabajo de maquina 2\main.c
+	"RS.h"
+	"RAC.h"
+
+1606092393 c:\users\lautaro\desktop\trabajo de maquina 2\rs.h
+	"lista.h"
+
+1606088217 c:\users\lautaro\desktop\trabajo de maquina 2\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"persona.h"
+
+1606089814 c:\users\lautaro\desktop\trabajo de maquina 2\persona.h
+	<string.h>
+	<ctype.h>
+
+1606096455 c:\users\lautaro\desktop\trabajo de maquina 2\rac.h
+
